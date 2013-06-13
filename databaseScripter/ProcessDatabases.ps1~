@@ -17,7 +17,8 @@
 #   for each output folder
 #       perform a diff on each folder / file
 #       
-
+#   display the results...
+#   generate patch file...
 
 ## ScriptTest.ps1
 Write-Host "InvocationName:" $MyInvocation.InvocationName
